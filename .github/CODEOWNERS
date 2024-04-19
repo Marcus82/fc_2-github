@@ -1,3 +1,4 @@
 *.js @Marcus82
 .github/ @Marcus82
 *.go @marcusviniciusps
+.html/ @Marcus82
