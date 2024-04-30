@@ -13,7 +13,7 @@ func (c Carro) parar() {
 func main() {
 
 	carro := Carro{
-		Nome: "BMW",
+		Nome: "BMWx",
 	}
 
 	carro.andar()
